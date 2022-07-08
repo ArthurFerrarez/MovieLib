@@ -1,0 +1,21 @@
+* {
+  font-family: "Roboto";
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(24 24 27);
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(91 33 182);
+  transition: .5s;
+}
+
+a:hover {
+  color: rgb(76 29 149);
+}
